@@ -22,7 +22,7 @@ This project is a Single Page Application (SPA) built using React and Vite as pa
 npm install
 npm run dev
 
-Learning Outcomes
+## 🎯 Learning Outcomes
 
 After completing this experiment, the learner will be able to:
 
@@ -36,5 +36,4 @@ After completing this experiment, the learner will be able to:
 - Apply **version control practices** using Git and GitHub.
 - Debug and test a React application using **Vite Dev Server and browser developer tools**.
 - Prepare a frontend application for **production build and deployment**.
-
 
